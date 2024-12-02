@@ -274,7 +274,7 @@ export default function Component() {
         <div className="rounded-3xl bg-zinc-900/70 backdrop-blur-xl p-10 lg:p-16 space-y-10 transition-all duration-300 shadow-lg border border-zinc-800/50">
           <div className="flex flex-col md:flex-row md:items-center justify-between gap-6">
             <div>
-              <h2 className="text-2xl lg:text-3xl font-semibold">Hey, I'm Alex</h2>
+              <h2 className="text-2xl lg:text-3xl font-semibold">Hey, Im Alex</h2>
               <p className="text-base lg:text-lg text-gray-400">Experienced Developer</p>
             </div>
             <div className="flex items-center gap-6">
@@ -369,7 +369,7 @@ export default function Component() {
               {[
                 {
                   title: "RecEzy (Website Developer)",
-                  description: "Eko, RecEzy's AI-enabled bot, is transforming the recruitment process to be simpler, faster, and more efficient",
+                  description: "Eko, RecEzys AI-enabled bot, is transforming the recruitment process to be simpler, faster, and more efficient",
                   image: "/placeholder.svg?height=400&width=600"
                 },
                 {
@@ -416,13 +416,13 @@ export default function Component() {
               <div className="bg-black rounded-full border border-zinc-700 px-4 py-2">
                   <h2 className="text-sm text-center text-gray-400">About Me</h2>
                 </div>
-                <h3 className="text-3xl md:text-3xl lg:text-5xl font-bold text-center">I'm a Professional Developer</h3>
+                <h3 className="text-3xl md:text-3xl lg:text-5xl font-bold text-center">Im a Professional Developer</h3>
               </div>
               <div className="grid md:grid-cols-3 gap-8">
                 {[
                   {
                     title: "Experience",
-                    description: "With over 5 years in the industry, I've honed my skills across various technologies and frameworks."
+                    description: "With over 5 years in the industry, Ive honed my skills across various technologies and frameworks."
                   },
                   {
                     title: "Expertise",
@@ -430,7 +430,7 @@ export default function Component() {
                   },
                   {
                     title: "Innovation",
-                    description: "I'm passionate about staying ahead of the curve, constantly learning and implementing cutting-edge technologies."
+                    description: "Im passionate about staying ahead of the curve, constantly learning and implementing cutting-edge technologies."
                   }
                 ].map((item, i) => (
                   <Card key={i} className="bg-zinc-800/50 backdrop-blur-xl border border-zinc-700/50 overflow-hidden transition-all duration-300 hover:bg-zinc-700/50 rounded-3xl">
@@ -533,7 +533,7 @@ export default function Component() {
               </div>
               <h3 className="text-3xl md:text-3xl lg:text-5xl font-bold text-center">Reach out to me</h3>
               <p className="text-gray-400 text-center max-w-2xl">
-              Reach out to me for support, collaborations, or to discuss your project needs. I'm here to assist you every step of the way.
+              Reach out to me for support, collaborations, or to discuss your project needs. Im here to assist you every step of the way.
               </p>
             </div>
             <div className="grid md:grid-cols-2 gap-8">
